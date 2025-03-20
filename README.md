@@ -10,7 +10,7 @@ Azure Data Lake (ADLS) for raw data storage
 Databricks & PySpark for data processing
 SQL databases for structured analytics
 
-## ** Overview of the Dataset**
+##  Overview of the Dataset
 
 **Data Sources**
 The data pipeline ingests data from multiple sources, including:
